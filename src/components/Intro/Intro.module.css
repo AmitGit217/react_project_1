@@ -1,0 +1,22 @@
+.intro {
+  margin-top: 21px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 6.19px;
+}
+.intro__title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+}
+.intro__subtitle {
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #f3bf99;
+  margin: 0;
+}
