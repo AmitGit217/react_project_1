@@ -1,6 +1,12 @@
 .App {
-  width: 550px;
+  max-width: 550px;
   height: 868px;
   background: #23252c;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  margin: 0;
 }
