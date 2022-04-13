@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0b8c3dad.css","mappings":"AAAA,KAGE,kBAAmB,CADnB,YAAa,CAEb,aAAc,CAHd,WAIF","sources":["App.css"],"sourcesContent":[".App {\n  width: 550px;\n  height: 868px;\n  background: #23252c;\n  margin: 0 auto;\n}\n"],"names":[],"sourceRoot":""}
