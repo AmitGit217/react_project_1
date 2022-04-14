@@ -3,3 +3,5 @@
 @import url(./components/Image/Image.module.css);
 @import url(./components/Intro/Intro.module.css);
 @import url(./components/LinkedinButton/LinkedinButton.module.css);
+@import url(./components/Text/Text.module.css);
+@import url(./components/Footer/Footer.module.css);
