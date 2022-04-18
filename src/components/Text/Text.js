@@ -15,7 +15,7 @@ export default function Text() {
       <div className={TextCSS.block}>
         <h2 className={TextCSS.block__title}>Interests</h2>
         <p className={TextCSS.block__paragraph}>
-          Reading. Karate. Music. Programming. Neuroscience. Lengueges.
+          Reading. Karate. Music. Programming. Neuroscience. Langueges.
           Learning.
         </p>
       </div>
